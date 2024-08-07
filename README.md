@@ -1,1 +1,1 @@
-[![4Mieek GitHub stats](https://github-readme-stats.vercel.app/api?username=4mieek)](https://github.com/4mieek/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mieek)](https://github.com/4mieek/github-readme-stats)
+[![4Mieek GitHub stats](https://github-readme-stats.vercel.app/api?username=4mieek&theme=tokyonight)](https://github.com/4mieek/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mieek&theme=tokyonight)](https://github.com/4mieek/github-readme-stats)
